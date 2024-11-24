@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bughra E.</title>
+    <link>http://localhost:44177/</link>
+    <description>Recent content on Bughra E.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2024 11:58:14 +0300</lastBuildDate>
+    <atom:link href="http://localhost:44177/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>http://localhost:44177/posts/hello-world/</link>
+      <pubDate>Sun, 24 Nov 2024 11:58:14 +0300</pubDate>
+      <guid>http://localhost:44177/posts/hello-world/</guid>
+      <description>Welcome to my blog.</description>
+    </item>
+    <item>
+      <title>Who am I?</title>
+      <link>http://localhost:44177/whoami/</link>
+      <pubDate>Sun, 24 Nov 2024 10:50:31 +0300</pubDate>
+      <guid>http://localhost:44177/whoami/</guid>
+      <description>I’m a Computer Programming student passionate about Penetration Testing, Web Application Security, and hands-on cybersecurity challenges. I develop with Python, JavaScript, and Go, and enhance my skills through Capture the Flag (CTF) challenges.&#xA;As an active member of my university’s Free Software and Open Source community, I help organize events and promote open-source culture.&#xA;I aim to deepen my expertise in Penetration Testing, Malware Analysis, System and Network Administration to become a well-rounded cybersecurity professional.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:44177/</loc>
+    <lastmod>2024-11-24T11:58:14+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:44177/posts/hello-world/</loc>
+    <lastmod>2024-11-24T11:58:14+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:44177/posts/</loc>
+    <lastmod>2024-11-24T11:58:14+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:44177/tags/</loc>
+    <lastmod>2024-11-24T11:58:14+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:44177/tags/untagged/</loc>
+    <lastmod>2024-11-24T11:58:14+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:44177/whoami/</loc>
+    <lastmod>2024-11-24T10:50:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:44177/blog/</loc>
+  </url><url>
+    <loc>http://localhost:44177/series/</loc>
+  </url>
+</urlset>

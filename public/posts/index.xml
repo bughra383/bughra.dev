@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Bughra E.</title>
+        <link>http://localhost:44177/posts/</link>
+        <description>Recent content in Posts on Bughra E.</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 24 Nov 2024 11:58:14 +0300</lastBuildDate>
+        <atom:link href="http://localhost:44177/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello, World!</title>
+            <link>http://localhost:44177/posts/hello-world/</link>
+            <pubDate>Sun, 24 Nov 2024 11:58:14 +0300</pubDate>
+            
+            <guid>http://localhost:44177/posts/hello-world/</guid>
+            <description>Welcome to my blog.</description>
+            <content type="html"><![CDATA[<p>Welcome to my blog.</p>
+<p><img src="/images/bughra.jpg" alt="bughra"></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

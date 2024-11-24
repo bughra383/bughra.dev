@@ -1,0 +1,68 @@
+baseurl      = "https://bughra.dev"
+title        = "Bughra E."
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+ 
+ # Subtitle for home
+  homeSubtitle = "my personal blog"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Metadata mostly used in document's head
+  description = "bughra's personal blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+
+   [params.logo] 	
+   logoText = "bughra.dev"
+   logoHomeLink = "/"
+  # Social media links
+[[params.social]]
+   name = "email"
+   url = "mailto:bug383@protonmail.com"
+
+[[params.social]]
+    name = "github"
+    url = "https://github.com/bughra383"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/bughra"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://x.com/bughra"
+
+  [[params.social]]
+    name = "tryhackme"
+    url = "https://tryhackme.com/r/p/bughra"
+
+[taxonomies]
+  category = "blog"
+  tag      = "tags"
+  series   = "series"
+
+[[menu.main]]
+  identifier = "blog"
+  name       = "blog"
+  url        = "/posts"
+
+[[menu.main]]
+  identifier = "whoami"
+  name       = "whoami"
+  url        = "/whoami"
+
+
